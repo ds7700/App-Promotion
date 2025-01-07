@@ -1,2 +1,1 @@
-import date, 
-print "hello world"
+console.log("Dima")
